@@ -74,6 +74,7 @@ The goal was to replace manual Excel/PDF reports with an **interactive Power BI 
 
 ## 🔹 Screenshots
 *(Insert PNG/JPG screenshots of your report here)*  
+<img width="602" height="335" alt="Screenshot 1" src="https://github.com/user-attachments/assets/acd444e0-efae-4ce0-bf65-7c5bd011f5d0" />
 
 ---
 
